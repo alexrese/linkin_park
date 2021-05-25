@@ -16,3 +16,7 @@ b{
 #footer .text-center{
     color: white;
 }
+
+html{
+    scroll-behavior: smooth;
+}
